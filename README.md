@@ -1,48 +1,62 @@
-## Your Name
+# Simon Glancy
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+After years of pursuing the rock and roll dream, I found myself drawn towards the world of programming and the opportunities it gave me to use the analytical and creative sides of my brain. I took a huge gamble to quit my job and take an intensive 12 week bootcamp at Makers Academy. As of Jan 2016 I had not written a single line of code, fast forward to May 2016 I have completed a working prototype for a mobile deliveries app.
+
+I am looking for a fertile environment that will allow me to table new ideas and see them through to fruition. I am particularly interested in products that are intrinsically useful and are disrupting the way that we interact with our environment.
+
+
 
 ## Skills
 
-#### This Skill
+### Test Driving Software Development
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Through my experience at Makers Academy I have really bought into the concept of test driven development not only in how it allows you to monitor the state of your code as you develop new features but more importantly how it often leads you down the path to clean readable code.
 
-- Experience
-- Achievements
-- Evidence
+As my knowledge of object oriented design and extreme programming has grown so to has my love of refactoring. This was particularly evident to me in my final project where extracting services to deal with the location and directions api actions allowed me to easily reuse the functionality in different controllers.
 
-#### Another Skill
+### User Focussed Design
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I am a huge fan of clean design both in an aesthetic sense and also how products fulfill their purpose. It is what I spend the most time on, developing the why and teasing out the most elegant solution.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+### Analysis and problem-solving
+
+From playing Zelda on the N64 I have always loved games and logic puzzles. In my previous job I spent considerable time trying to gamify work streams and develop systems that made monotonous tasks fascinating and easy to monitor progress, this is ultimately what gave me the push to try programming.
+
+When it comes to programming I love to break things apart and see if they can fit back together in new ways.
+
+### Teamwork
+
+I love working in teams and pairing is something which I'm very passionate about. I think my strengths lie in being able to tease out the best from the people around me. I'm very high energy at the start of a project and am love to lead when the team is being shaped and the direction decided. Through years of working in high pressure technical environments I have developed the knowledge on when to step forward and lead and when to be lead. I am a strong believer in positive tension.
+
+## Key Project
+
+| Project | Summary | Technologies |
+|---|---|---|
+| Handl  | A deliveries app that displays the route on a map so that bike couriers can select jobs that are closest to them  | An Angular Front-end de-coupled from a RESTful rails api  Tested with Rspec, Karma and Protractor. |
+|  | [Backend](https://github.com/acookson91/handl-backend.git)| [Frontend](https://github.com/acookson91/handl-frontend.git) |
+
+
+
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy: Feb 2016 - May 2016
+#### Bristol University: 2004 - 2008 - Civil Engineering - 2:1
+#### Marlborough College
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+## Work
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Mott MacDonald - Civil Engineering Consultancy: 2008 - 2016
 
-#### Any other qualifications
 
-## Experience
+## Interests
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+#### Music
+I am passionate about songwriting and playing live. My band [Escapists](https://www.escapistsmusic.com) have played Reading festival and toured with Manic Street Preachers playing to 3000 a night.
+
+#### Travel
+I have travelled extensively in Africa and South East Asia. My favourite experience has to be watching sun rise over Africa at the summit of Kilimanjiro.
+
+#### Sport
+Keen Hockey and Ultimate Frisbee player.
