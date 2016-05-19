@@ -1,8 +1,11 @@
+[Skills](https://github.com/SimonGlancy/CV#skills) | [Key Projects](https://github.com/SimonGlancy/CV#key-project) | [Education](https://github.com/SimonGlancy/CV#education) |
+[Music](www.escapistsmusic.com)
+
 # Simon Glancy
 
-After years of pursuing the rock and roll dream, I found myself drawn towards the world of programming and the opportunities it gave me to use the analytical and creative sides of my brain. I took a huge gamble to quit my job and take an intensive 12 week bootcamp at Makers Academy. As of Jan 2016 I had not written a single line of code, fast forward to May 2016 I have completed a working prototype for a mobile deliveries app.
+After years of pursuing the rock and roll dream, I found myself drawn towards the world of programming and the opportunities it gave me to use the analytical and creative sides of my brain. I took a huge gamble to quit my job in Civil Engineering and take an intensive 12 week bootcamp at Makers Academy. As of Jan 2016 I had not written a single line of code, fast forward to May 2016 I have completed a working prototype for a mobile deliveries app.
 
-I am looking for a fertile environment that will allow me to table new ideas and see them through to fruition. I am particularly interested in products that are intrinsically useful and are disrupting the way that we interact with our environment.
+I am looking for a fertile environment that will allow me to table new ideas and see them through to fruition. I am particularly interested in products that are intrinsically useful and are disrupting the way that we interact with our surroundings.
 
 
 
@@ -26,14 +29,18 @@ When it comes to programming I love to break things apart and see if they can fi
 
 ### Teamwork
 
-I love working in teams and pairing is something which I'm very passionate about. I think my strengths lie in being able to tease out the best from the people around me. I'm very high energy at the start of a project and am love to lead when the team is being shaped and the direction decided. Through years of working in high pressure technical environments I have developed the knowledge on when to step forward and lead and when to be lead. I am a strong believer in positive tension.
+I love working in teams and pairing is something which I'm very passionate about. I think my strengths lie in being able to tease out the best from the people around me. I'm very high energy at the start of a project and love to lead when the team is being shaped and the direction decided. Through years of working in high pressure technical environments I have developed the knowledge on when to step forward and lead and when to be lead. I am a strong believer in positive tension.
 
-## Key Project
+### Working to perform
 
-| Project | Summary | Technologies |
-|---|---|---|
-| Handl  | A deliveries app that displays the route on a map so that bike couriers can select jobs that are closest to them  | An Angular Front-end de-coupled from a RESTful rails api  Tested with Rspec, Karma and Protractor. |
-|  | [Backend](https://github.com/acookson91/handl-backend.git)| [Frontend](https://github.com/acookson91/handl-frontend.git) |
+I have found the experience of being in a band and playing to both big crowds and empty rooms has greatly affected my abilities in the workplace. It has given me the skills to present to people, integrate into teams and the confidence to be client facing.
+
+## Key Projects
+
+| Project | Summary | Technologies | Repos
+|---|---|---|---|
+| Handl  | A deliveries app that displays the route on a map so that bike couriers can select jobs that are closest to them  | An Angular Front-end de-coupled from a RESTful rails api  Tested with Rspec, Karma and Protractor. | [Backend](https://github.com/acookson91/handl-backend.git) [Frontend](https://github.com/acookson91/handl-frontend.git)
+| Post A Goat | Solving the age old issue of not being able to send your friends goat related messages at random | An Angular front-end on a rails api with integrated twillio to send text messages | [Repo](https://github.com/acookson91/post-a-goat)
 
 
 
@@ -41,6 +48,15 @@ I love working in teams and pairing is something which I'm very passionate about
 ## Education
 
 #### Makers Academy: Feb 2016 - May 2016
+###### Technologies:
+Ruby, JavaScript, Html5, CSS, PSQL
+
+###### Frameworks:
+Sinatra, Rails, Angular, Ionic
+
+###### Testing:
+Rspec, Capybara, Selenium Webdriver, Jasmine, Karma, Protractor
+
 #### Bristol University: 2004 - 2008 - Civil Engineering - 2:1
 #### Marlborough College
 
