@@ -1,4 +1,4 @@
-[Skills](https://github.com/SimonGlancy/CV#skills) | [Key Projects](https://github.com/SimonGlancy/CV#key-project) | [Education](https://github.com/SimonGlancy/CV#education) |
+[Skills](https://github.com/SimonGlancy/CV#skills) | [Key Projects](https://github.com/SimonGlancy/CV#key-projects) | [Education](https://github.com/SimonGlancy/CV#education) |
 [Music](http://www.escapistsmusic.com)
 
 # Simon Glancy
