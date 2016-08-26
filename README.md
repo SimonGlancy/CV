@@ -41,7 +41,7 @@ I have found the experience of being in a band and playing to both big crowds an
 |---|---|---|---|
 | Handl  | A deliveries app that displays the route on a map so that bike couriers can select jobs that are closest to them  | An Angular Front-end de-coupled from a RESTful rails api  Tested with Rspec, Karma and Protractor. | [Backend](https://github.com/acookson91/handl-backend.git) [Frontend](https://github.com/acookson91/handl-frontend.git)
 | Post A Goat | Solving the age old issue of not being able to send your friends goat related messages at random | An Angular front-end on a rails api with integrated twillio to send text messages | [Repo](https://github.com/acookson91/post-a-goat) |
-| [Escapists website](https://simonglancy.github.io) | website for my band using angular to consume instagram, spotify, songkick and mailChimp apis. ** songKick api not working when hosted on gitHub due to http restriction. ** | [Repo](https://github.com/SimonGlancy/simonglancy.github.io)|
+| [Escapists website](https://simonglancy.github.io) | website for my band using angular to consume instagram, spotify, songkick and mailChimp apis. ** songKick api not working when hosted on gitHub due to http restriction. ** | Built using angular| [Repo](https://github.com/SimonGlancy/simonglancy.github.io)|
 
 
 
