@@ -5,7 +5,7 @@
 
 After years of pursuing the rock and roll dream, I found myself drawn towards the world of programming and the opportunities it gave me to use the analytical and creative sides of my brain. I took a huge gamble to quit my job in Civil Engineering and take an intensive 12 week bootcamp at Makers Academy. As of Jan 2016 I had not written a single line of code, fast forward to May 2016 I have completed a working prototype for a mobile deliveries app.
 
-In October 2016 I started working for MedicAnimal as a frontend developer, a role that has allowed me to further develop my javascript skills and learn more about agile work practices and delivering work within a 2 week sprint process. I am now looking to move ont to a fertile environment that will allow me to develop new ideas and allow me to be exposed to the newsest technologies and deployment patterns such as react.
+Since October 2016 I have been working for MedicAnimal as a frontend developer, a role that has allowed me to further develop my javascript skills and learn more about agile work practices and delivering work within a 2 week sprint process. I am now looking to move onto a new environment that will allow me to develop new ideas and expose me to the newest technologies and deployment.
 
 I am particularly interested in products that are intrinsically useful and are disrupting the way that we interact with our surroundings.
 
