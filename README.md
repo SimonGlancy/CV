@@ -5,12 +5,20 @@
 
 After years of pursuing the rock and roll dream, I found myself drawn towards the world of programming and the opportunities it gave me to use the analytical and creative sides of my brain. I took a huge gamble to quit my job in Civil Engineering and take an intensive 12 week bootcamp at Makers Academy. As of Jan 2016 I had not written a single line of code, fast forward to May 2016 I have completed a working prototype for a mobile deliveries app.
 
-Since October 2016 I have been working for MedicAnimal as a frontend developer, a role that has allowed me to further develop my javascript skills and learn more about agile work practices and delivering work within a 2 week sprint process. I am now looking to move onto a new environment that will allow me to develop new ideas and expose me to the newest technologies and deployment.
+Since Jan 2017 I have worked for JigsawXYZ; a fintech startup based in OldStreet. I have worked on many different fascets of the financial spectrum and have gravitated towards work on building rapid prototypes to test new concepts. Highlights include:
+
+- A payment system using facial recognition to help speed up wait times at the concessions stands in the Atlanta Falcons stadium in Atlanta GA.
+- A prototype banking application for a major UK supermarket allowing users to create a digital wallet to store their payment cards and pay securely in store using QR code technology
+- Creation of Savvy, a mobile application connecting employees to their companies and companies to the builds in which they reside to help improve how office space is utilised
 
 I am particularly interested in products that are intrinsically useful and are disrupting the way that we interact with our surroundings.
 
 
 ## Skills
+
+### Front end development
+
+Through my time at Jigsaw I have developed expert knowledge in React and React Native and keep up to date with the latest paradigms and design patterns that are emerging in this excitiing field.
 
 ### Test Driving Software Development
 
@@ -36,13 +44,6 @@ I love working in teams and pairing is something which I'm very passionate about
 
 I have found the experience of being in a band and playing to both big crowds and empty rooms has greatly affected my abilities in the workplace. It has given me the skills to present to people, integrate into teams and the confidence to be client facing.
 
-## Key Projects
-
-| Project | Summary | Technologies | Repos
-|---|---|---|---|
-| Handl  | A deliveries app that displays the route on a map so that bike couriers can select jobs that are closest to them  | An Angular Front-end de-coupled from a RESTful rails api  Tested with Rspec, Karma and Protractor. | [Backend](https://github.com/acookson91/handl-backend.git) [Frontend](https://github.com/acookson91/handl-frontend.git)
-| Post A Goat | Solving the age old issue of not being able to send your friends goat related messages at random | An Angular front-end on a rails api with integrated twillio to send text messages | [Repo](https://github.com/acookson91/post-a-goat) |
-| [Escapists website](https://simonglancy.github.io) | website for my band using angular to consume instagram, spotify, songkick and mailChimp apis. ** songKick api not working when hosted on gitHub due to http restriction. ** | Built using angular| [Repo](https://github.com/SimonGlancy/simonglancy.github.io)|
 
 
 
@@ -64,7 +65,8 @@ Rspec, Capybara, Selenium Webdriver, Jasmine, Karma, Protractor
 
 
 ## Work
-#### MedicAnimal - Frontend developer: Oct 2016 -
+#### [JigsawXYZ](https://www.jigsaw.xyz/)
+#### MedicAnimal - Frontend developer: Oct 2016 - Dec 2016
 #### Mott MacDonald - Civil Engineering Consultancy: 2008 - 2016
 
 
